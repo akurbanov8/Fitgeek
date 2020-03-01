@@ -1,4 +1,4 @@
 # Fitgeek
 Repository for Fitgeek project
 
-Testing Slack integration
+Testing Slack integration 2.0
